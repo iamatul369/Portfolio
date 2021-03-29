@@ -213,7 +213,7 @@ img{
   color: var(--first-color);
 }
 .home__img{
-  position: absolute;
+/*   position: absolute; */
 /*   margin-right: 60px; */
   right: 0;
   bottom: 0;
